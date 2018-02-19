@@ -1,0 +1,9 @@
+#!/bin/bash
+# Week 5 homework, Chapter 5
+# Don Yang
+# CSCI 2461-70 Computer Networking 2 - Linux
+
+# View the kernel parameters
+cat /proc/cmdline
+
+

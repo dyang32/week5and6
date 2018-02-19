@@ -1,0 +1,16 @@
+#!/bin/bash
+# Week 6 homework, Chapter 6
+# Don Yang
+# CSCI 2461-70 Computer Networking 2 - Linux
+
+# View the kernel parameters
+cat /proc/cmdline
+
+# View system info
+sudo dmesg | less
+
+# View grub.cfg file
+cat /boot/grub/grub.cfg
+
+
+
